@@ -1,11 +1,11 @@
-# Remix Indie Stack
+# Remix Mantine Stack
 
-![The Remix Indie Stack](https://repository-images.githubusercontent.com/465928257/a241fa49-bd4d-485a-a2a5-5cb8e4ee0abf)
+![The Mantine Remix Stack](https://user-images.githubusercontent.com/8415401/161402982-1eea3f8e-7f89-49ea-91eb-a7314bf5a053.png)
 
 Learn more about [Remix Stacks](https://remix.run/stacks).
 
 ```
-npx create-remix --template remix-run/indie-stack
+npx create-remix --template franck-boucher/mantine-stack
 ```
 
 ## What's in the stack
