@@ -5,7 +5,7 @@
 Learn more about [Remix Stacks](https://remix.run/stacks).
 
 ```
-npx create-remix@latest --template franck-boucher/mantine-stack
+npx create-remix --template franck-boucher/mantine-stack
 ```
 
 ## What's in the stack
